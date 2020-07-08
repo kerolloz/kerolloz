@@ -1,6 +1,4 @@
-### Hi there 👋
 
-:octocat: Welcome to my **favorite** profile on the internet! 🌍
 
 <!--
 **kerolloz/kerolloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <h3>Hi there 👋</h3>
+
+  :octocat: Welcome to my **favorite** profile on the internet! 🌍
+
   ---
   <br>
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
