@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 :octocat:  
 Welcome to my **favorite** profile on the internet! 🌍
 
-- 💬 Ask me about ...
+### 💬 Ask me about ...
 
 ![TypeScript](https://img.shields.io/badge/-TS-blue)
 ![JavaScript](https://img.shields.io/badge/-JS-yellow)
 
-- 📫 How to reach me: ...
+### 📫 How to reach me: ...
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kerolloz?style=social)
 
