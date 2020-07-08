@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 ### Hi there 👋
-:octocat: 
+:octocat:  
 Welcome to my **favorite** profile on the internet! 🌍
 
   <span>---</span>
