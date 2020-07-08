@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   
 ### Hi there 👋
 :octocat:  
-Welcome to my **favorite** profile on the internet! 🌍
+Welcome to my **favorite** profile on the internet!  
+🌍
 
   <span>---</span>
   <br>
