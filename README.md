@@ -1,11 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+This is _Kerollos_, a guy who likes to contribute to open-source :smiley:
+
+Welcome to :octocat: my **favorite** profile on the internet! 🌍
 
 <!--
 **kerolloz/kerolloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <i>"Don't ever let somebody tell you, you can't do something! You got a dream… You gotta protect it. People can’t do something’ themselves, they wanna tell you you can’t do it. If you want something’, go get it. Period"</i>
+</div>
