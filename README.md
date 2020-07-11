@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 :octocat:  
 Welcome to my **favorite** profile on the internet! 🌍  
-![counter](https://enq2tsi38eur1vl.m.pipedream.net)  
 :telescope: Check out [what I have been recently working on](#js-contribution-activity)
+
+![counter](https://enq2tsi38eur1vl.m.pipedream.net)  
 
   <span>---</span>
   <br>
