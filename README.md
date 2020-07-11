@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 :octocat:  
 Welcome to my **favorite** profile on the internet! 🌍
-
+![counter](https://enq2tsi38eur1vl.m.pipedream.net)
 :telescope: Check out [what I have been recently working on](#js-contribution-activity)
 
   <span>---</span>
@@ -27,3 +27,4 @@ Welcome to my **favorite** profile on the internet! 🌍
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
   
 </div>
+
