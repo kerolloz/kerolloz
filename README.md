@@ -13,7 +13,7 @@
 🔸 For more info please refer to my [Resume](https://tinyurl.com/kerollos-resume)  📑 
 
 <sup>Only available for freelancing || part-time.  
-<a href="https://kerolloz.github.io/end-of-service"><img src="https://enoackat3s77v48.m.pipedream.net#" width="12%" /></a> <sup>(👮 ⭐⭐ 1st LT currently serving in the military)</sup><hr />
+<a href="https://kerolloz.github.io/end-of-service"><img src="https://enoackat3s77v48.m.pipedream.net#" width="13%" /></a> <sup>(👮 ⭐⭐ 1st LT currently serving in the military)</sup><hr />
 <div align="center">
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
 </div>
