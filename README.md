@@ -1,33 +1,20 @@
+<h1 align="left">Hi there 👋<a href="https://commits.top/egypt"><img align="right" src="https://en2bnd5v3totrva.m.pipedream.net"/></a><img align="right" src="https://enq2tsi38eur1vl.m.pipedream.net" /></h1>
 
+<img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" />
 
-<!--
-**kerolloz/kerolloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Kerollos Magdy
+> Mostly fixing bugs or creating new ones 🐞
 
-Here are some ideas to get you started:
+🔹 I’m currently learning **GoLang** 💙  
+🔸 I like [**reading**](//goodreads.com/kerolloz) 📘  
+🔹 I would like to work with Node.js 💚 (preferably in TS), Ruby 💎 & Python 🐍  
+🔸 In love with OpenSource :octocat:, Linux 🐧 & Problem Solving 💡  
+🔹 [Ask](https://github.com/kerolloz/kerolloz/discussions/new?category=q-a) me anything 💭 but don't forget to bring a cup of coffee with you ☕  
+🔸 For more info please refer to my [Resume](https://tinyurl.com/kerollos-resume)  📑 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<sup>Only available for freelancing || part-time.  
+<a href="https://kerolloz.github.io/end-of-service"><img src="https://enoackat3s77v48.m.pipedream.net#" width="12%" /></a> <sup>(👮 ⭐⭐ 1st LT currently serving in the military)</sup><hr />
 <div align="center">
-  
-### Hi there 👋
-:octocat:  
-Welcome to my **favorite** profile on the internet! 🌍  
-:telescope: Check out [what I have been recently working on](#js-contribution-activity)
-
-![counter](https://enq2tsi38eur1vl.m.pipedream.net)  
-[![Most Active GitHub User in Egypt Rank](https://en2bnd5v3totrva.m.pipedream.net)](https://commits.top/egypt)  
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=kerolloz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-  <span>---</span>
-  <br>
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
-  
 </div>
 
