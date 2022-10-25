@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋
-<a href="https://commits.top/egypt">
-  <img align="right" src="https://en2bnd5v3totrva.m.pipedream.net"/>
+<a href="https://aktive.tk">
+  <img align="right" src="https://tinyurl.com/4h5w4enb"/>
 </a>
 <a href="https://kounter.tk">
-  <img align="right" src="https://t.ly/KYNT" />
+  <img align="right" src="https://tinyurl.com/4kyjn5za" />
 </a>
 </h1>
 
