@@ -1,10 +1,18 @@
 <h1 align="left">Hi there 👋
-<a href="https://aktive.tk">
+<a href="https://aktive.tk#gh-dark-mode-only">
   <img align="right" src="https://t.ly/FP-c"/>
 </a>
-<a href="https://kounter.tk">
+<a href="https://kounter.tk#gh-dark-mode-only">
   <img align="right" src="https://t.ly/X8YG" />
 </a>
+  
+<a href="https://aktive.tk#gh-light-mode-only">
+  <img align="right" src="https://t.ly/9xZAJ"/>
+</a>
+<a href="https://kounter.tk#gh-light-mode-only">
+  <img align="right" src="https://t.ly/mOJk" />
+</a>
+
 </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" />
