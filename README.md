@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋
 <a href="https://aktive.tk">
-  <img align="right" src="https://tinyurl.com/4h5w4enb"/>
+  <img align="right" src="https://t.ly/FP-c"/>
 </a>
 <a href="https://kounter.tk">
-  <img align="right" src="https://tinyurl.com/4kyjn5za" />
+  <img align="right" src="https://t.ly/X8YG" />
 </a>
 </h1>
 
