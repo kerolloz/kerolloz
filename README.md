@@ -3,7 +3,7 @@
   <img align="right" src="https://t.ly/FP-c"/>
 </a>
 <a href="https://kounter.tk#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/X8YG" />
+  <img align="right" src="https://t.ly/IPLe" />
 </a>
   
 <a href="https://aktive.tk#gh-light-mode-only">
