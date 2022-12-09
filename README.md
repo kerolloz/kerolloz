@@ -1,13 +1,13 @@
 <h1 align="left">Hi there 👋
 <a href="https://aktive.tk#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/jk4s"/>
+  <img align="right" src="https://t.ly/pFlX"/>
 </a>
 <a href="https://kounter.tk#gh-dark-mode-only">
   <img align="right" src="https://t.ly/IPLe" />
 </a>
   
 <a href="https://aktive.tk#gh-light-mode-only">
-  <img align="right" src="https://t.ly/Xc10"/>
+  <img align="right" src="https://t.ly/LOBD"/>
 </a>
 <a href="https://kounter.tk#gh-light-mode-only">
   <img align="right" src="https://t.ly/mOJk" />
