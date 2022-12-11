@@ -25,7 +25,7 @@
 🔹 I would like to work with Node.js 💚 (preferably in TS), Ruby 💎 & Python 🐍  
 🔸 In love with OpenSource :octocat:, Linux 🐧 & Problem Solving 💡  
 🔹 [Ask](https://github.com/kerolloz/kerolloz/discussions/new?category=q-a) me anything 💭 don't forget to bring coffee with you ☕  
-🔸 For more info please refer to my [Resume](https://bit.ly/kerollos-resume)  📑 
+🔸 For more info please refer to my [Resume](https://t.ly/7UVV)  📑 
 
 <sup>Only available for freelancing || part-time.  
 <a href="https://kerolloz.github.io/end-of-service"><img src="https://end-of-service.deta.dev" width="13%" /></a> <sup>(👮 ⭐⭐ 1st LT currently serving in the military)</sup><hr />
