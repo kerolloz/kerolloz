@@ -1,16 +1,16 @@
 <h1 align="left">Hi there 👋
 <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/f5nHY"/>
+  <img align="right" src="https://t.ly/Fi7hB"/>
 </a>
 <a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/au7PZ" />
+  <img align="right" src="https://t.ly/4v7yI" />
 </a>
   
 <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
-  <img align="right" src="https://t.ly/_VWmx"/>
+  <img align="right" src="https://t.ly/pZy1j"/>
 </a>
 <a href="https://kounter.kerolloz.dev#gh-light-mode-only">
-  <img align="right" src="https://t.ly/Lcgwk" />
+  <img align="right" src="https://t.ly/QnGhe" />
 </a>
 
 </h1>
