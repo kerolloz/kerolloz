@@ -15,7 +15,7 @@
 
 </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" />
+<img align="right" src="https://github.com/kerolloz/kerolloz/assets/36763164/cb407484-56b3-4b1a-b470-8d84855e2e1e" width="35%" />
 
 ### Kerollos Magdy
 > Mostly fixing bugs or creating new ones 🐞
