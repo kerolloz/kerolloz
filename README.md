@@ -1,19 +1,27 @@
-<h1 align="left">Hi there 👋
-<a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/Fi7hB"/>
-</a>
-<a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
-  <img align="right" src="https://t.ly/4v7yI" />
-</a>
-  
-<a href="https://aktive.kerolloz.dev#gh-light-mode-only">
-  <img align="right" src="https://t.ly/pZy1j"/>
-</a>
-<a href="https://kounter.kerolloz.dev#gh-light-mode-only">
-  <img align="right" src="https://t.ly/QnGhe" />
-</a>
+<h1 align="center">
+  <!-- DARK -->
+  <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
+    <img src="https://t.ly/qwfRG" />
+  </a>
+  <a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
+    <img src="https://t.ly/4v7yI" />
+  </a>
+  <a href="https://gh-most-followed.pages.dev#gh-dark-mode-only">
+    <img src="https://t.ly/yi9ck" />
+  </a>
 
+  <!-- LIGHT  -->
+  <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
+    <img src="https://t.ly/pZy1j" />
+  </a>
+  <a href="https://kounter.kerolloz.dev#gh-light-mode-only">
+    <img src="https://t.ly/QnGhe" />
+  </a>
+  <a href="https://gh-most-followed.pages.dev#gh-light-mode-only">
+    <img src="https://t.ly/6K66W" />
+  </a>
 </h1>
+
 
 <img align="right" src="https://github.com/kerolloz/kerolloz/assets/36763164/cb407484-56b3-4b1a-b470-8d84855e2e1e" width="30%" />
 
