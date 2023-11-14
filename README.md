@@ -3,7 +3,6 @@
   <a href="https://gh-most-followed.pages.dev/egypt#gh-dark-mode-only"><img src="https://t.ly/tjuuN" /></a>
   <a href="https://kounter.kerolloz.dev#gh-dark-mode-only"><img src="https://t.ly/4v7yI" /></a>
   <a href="https://aktive.kerolloz.dev#gh-dark-mode-only"><img src="https://t.ly/f0B6A" /></a>
-
   <!-- LIGHT  -->
   <a href="https://gh-most-followed.pages.dev/egypt#gh-light-mode-only"><img src="https://t.ly/L6jm8" /></a>
   <a href="https://kounter.kerolloz.dev#gh-light-mode-only"><img src="https://t.ly/QnGhe" /></a>
