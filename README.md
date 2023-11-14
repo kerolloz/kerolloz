@@ -1,27 +1,14 @@
 <h1 align="center">
   <!-- DARK -->
-  <a href="https://gh-most-followed.pages.dev/egypt#gh-dark-mode-only">
-    <img src="https://t.ly/tjuuN" />
-  </a>
-  <a href="https://kounter.kerolloz.dev#gh-dark-mode-only">
-    <img src="https://t.ly/4v7yI" />
-  </a>
-  <a href="https://aktive.kerolloz.dev#gh-dark-mode-only">
-    <img src="https://t.ly/f0B6A" />
-  </a>
+  <a href="https://gh-most-followed.pages.dev/egypt#gh-dark-mode-only"><img src="https://t.ly/tjuuN" /></a>
+  <a href="https://kounter.kerolloz.dev#gh-dark-mode-only"><img src="https://t.ly/4v7yI" /></a>
+  <a href="https://aktive.kerolloz.dev#gh-dark-mode-only"><img src="https://t.ly/f0B6A" /></a>
 
   <!-- LIGHT  -->
- <a href="https://gh-most-followed.pages.dev/egypt#gh-light-mode-only">
-    <img src="https://t.ly/L6jm8" />
-  </a>
-  <a href="https://kounter.kerolloz.dev#gh-light-mode-only">
-    <img src="https://t.ly/QnGhe" />
-  </a>
-  <a href="https://aktive.kerolloz.dev#gh-light-mode-only">
-    <img src="https://t.ly/zbbvy" />
-  </a>
+  <a href="https://gh-most-followed.pages.dev/egypt#gh-light-mode-only"><img src="https://t.ly/L6jm8" /></a>
+  <a href="https://kounter.kerolloz.dev#gh-light-mode-only"><img src="https://t.ly/QnGhe" /></a>
+  <a href="https://aktive.kerolloz.dev#gh-light-mode-only"><img src="https://t.ly/zbbvy" /></a>
 </h1>
-
 
 <img align="right" src="https://github.com/kerolloz/kerolloz/assets/36763164/cb407484-56b3-4b1a-b470-8d84855e2e1e" width="30%" />
 
