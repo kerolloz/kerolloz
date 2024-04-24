@@ -20,7 +20,6 @@
 🔹 I would like to work with Node.js 💚 (preferably in TS), Ruby 💎 & Python 🐍  
 🔸 In love with OpenSource :octocat:, Linux 🐧 & Problem Solving 💡  
 🔹 [Ask](https://github.com/kerolloz/kerolloz/discussions/new?category=q-a) me anything 💭  
-🔸 For more info please refer to my [CV](https://bit.ly/3R15cnU)  📑 
 
 <hr />
 
