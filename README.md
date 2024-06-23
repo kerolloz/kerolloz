@@ -15,7 +15,7 @@
 
 > Mostly fixing bugs or creating new ones 🐞
 
-🔹 I’m currently learning **GoLang** 💙  
+🔹 I’m currently learning **.NET** 💙  
 🔸 I like [**reading**](//goodreads.com/kerolloz) 📘  
 🔹 I would like to work with Node.js 💚 (preferably in TS), Ruby 💎 & Python 🐍  
 🔸 In love with OpenSource :octocat:, Linux 🐧 & Problem Solving 💡  
