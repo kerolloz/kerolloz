@@ -9,17 +9,20 @@
   <a href="https://aktive.kerolloz.dev#gh-light-mode-only"><img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/kerolloz" /></a>
 </h1>
 
-<img align="right" src="https://github.com/kerolloz/kerolloz/assets/36763164/20a062d1-7238-46d4-9595-83fcc184247e" width="36%" />
 
 ### Kerollos Magdy
 
-> Mostly fixing bugs or creating new ones 🐞
+> Sipping coffee while coding — also known as bug creation time ☕💻🐞.
 
-🔹 I’m currently learning **.NET** 💙  
 🔸 I like [**reading**](//goodreads.com/kerolloz) 📘  
 🔹 I would like to work with Node.js 💚 (preferably in TS), Ruby 💎 & Python 🐍  
 🔸 In love with OpenSource :octocat:, Linux 🐧 & Problem Solving 💡  
 🔹 [Ask](https://github.com/kerolloz/kerolloz/discussions/new?category=q-a) me anything 💭  
+
+<p align="center">
+  <a href="https://gollowers.pages.dev/egypt#gh-light-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true" /></a>
+  <a href="https://gollowers.pages.dev/egypt#gh-dark-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true&theme=dark" /></a>
+</p>
 
 <hr />
 
