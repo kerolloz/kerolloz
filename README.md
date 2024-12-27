@@ -20,8 +20,8 @@
 🔹 [Ask](https://github.com/kerolloz/kerolloz/discussions/new?category=q-a) me anything 💭  
 
 <p align="center">
-  <a href="https://gollowers.pages.dev/egypt#gh-light-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true" /></a>
-  <a href="https://gollowers.pages.dev/egypt#gh-dark-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true&theme=dark" /></a>
+  <a href="https://gollowers.pages.dev/#gh-light-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true" /></a>
+  <a href="https://gollowers.pages.dev/#gh-dark-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true&theme=dark" /></a>
 </p>
 
 <hr />
