@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="//goodreads.com/kerolloz"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="GoodReads" /></a>
-  <a href="https://github.com/kerolloz/kerolloz/discussions/new?category=q-a"><img src="https://img.shields.io/badge/Ask%20Me-💭-blue?style=for-the-badge" alt="Ask Me Anything" /></a>
-  <a href="//linkedin.com/in/kerolloz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="//goodreads.com/kerolloz"><img width="150" src="https://github.com/user-attachments/assets/c92784fb-3e3c-4f80-a2bb-9aabc6e3af75" alt="GoodReads" /></a>
+  <a href="https://github.com/kerolloz/kerolloz/discussions/new?category=q-a"><img width="150" src="https://github.com/user-attachments/assets/d1d26bb7-24d1-4734-93ad-38df2c69d0d6" alt="Ask Me Anything" /></a>
+  <a href="//linkedin.com/in/kerolloz"><img width="150" src="https://github.com/user-attachments/assets/7be47f90-21e8-4215-a2ff-d695de840e31" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
