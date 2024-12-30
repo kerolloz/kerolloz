@@ -9,17 +9,26 @@
   <a href="https://aktive.kerolloz.dev#gh-light-mode-only"><img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/kerolloz" /></a>
 </h1>
 
-<img align="right" src="https://github.com/kerolloz/kerolloz/assets/36763164/20a062d1-7238-46d4-9595-83fcc184247e" width="36%" />
+![image](https://github.com/user-attachments/assets/d958e3ab-cae2-4005-a169-79421f306b27)
 
-### Kerollos Magdy
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,bun,express,ruby,rails,svelte" /><br/>
+    <img src="https://skillicons.dev/icons?i=docker,azure,linux,github,gitlab,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  </a>
+</p>
 
-> Mostly fixing bugs or creating new ones 🐞
+<p align="center">
+  <a href="//goodreads.com/kerolloz"><img width="150" src="https://github.com/user-attachments/assets/c92784fb-3e3c-4f80-a2bb-9aabc6e3af75" alt="GoodReads" /></a>
+  <a href="https://github.com/kerolloz/kerolloz/discussions/new?category=q-a"><img width="150" src="https://github.com/user-attachments/assets/d1d26bb7-24d1-4734-93ad-38df2c69d0d6" alt="Ask Me Anything" /></a>
+  <a href="//linkedin.com/in/kerolloz"><img width="150" src="https://github.com/user-attachments/assets/7be47f90-21e8-4215-a2ff-d695de840e31" alt="LinkedIn" /></a>
+</p>
 
-🔹 I’m currently learning **.NET** 💙  
-🔸 I like [**reading**](//goodreads.com/kerolloz) 📘  
-🔹 I would like to work with Node.js 💚 (preferably in TS), Ruby 💎 & Python 🐍  
-🔸 In love with OpenSource :octocat:, Linux 🐧 & Problem Solving 💡  
-🔹 [Ask](https://github.com/kerolloz/kerolloz/discussions/new?category=q-a) me anything 💭  
+<p align="center">
+  <a href="https://gollowers.pages.dev/#gh-light-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true" /></a>
+  <a href="https://gollowers.pages.dev/#gh-dark-mode-only"><img alt="Followers History Chart" src="https://gollowers.fr.to/graph/kerolloz?transparent=true&theme=dark" /></a>
+</p>
 
 <hr />
 
