@@ -27,8 +27,8 @@
 
 
 <p align="center">
-  <a href="https://gollowers.pages.dev/#gh-light-mode-only"><img alt="Followers History Chart" src="https://gollowers.empw.tk/graph/kerolloz?transparent=true#newx" /></a>
-  <a href="https://gollowers.pages.dev/#gh-dark-mode-only"><img alt="Followers History Chart" src="https://gollowers.empw.tk/graph/kerolloz?transparent=true&theme=dark#newx" /></a>
+  <a href="https://gollowers.pages.dev/#gh-light-mode-only"><img alt="Followers History Chart" src="https://gollowers.empw.tk/graph/kerolloz?transparent=true#zz" /></a>
+  <a href="https://gollowers.pages.dev/#gh-dark-mode-only"><img alt="Followers History Chart" src="https://gollowers.empw.tk/graph/kerolloz?transparent=true&theme=dark#zz" /></a>
 </p>
 
 <hr />
