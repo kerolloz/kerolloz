@@ -9,8 +9,6 @@
   <a href="https://aktive.kerolloz.dev#gh-light-mode-only"><img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/kerolloz" /></a>
 </h1>
 
-![image](https://github.com/user-attachments/assets/d958e3ab-cae2-4005-a169-79421f306b27)
-
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,bun,express,ruby,rails,svelte" /><br/>
